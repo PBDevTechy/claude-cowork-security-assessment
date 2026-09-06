@@ -1,4 +1,4 @@
-\# Claude Cowork Security Assessment
+# Claude Cowork Security Assessment
 
 
 
@@ -14,7 +14,7 @@ rather than just reading about AI agent security.
 
 
 
-\## What I Tested
+## What I Tested
 
 
 
